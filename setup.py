@@ -7,7 +7,7 @@ install_requires = [
     "cached-property>=1.3.0; python_version<'3.8'",
     "isodate>=0.5.4",
     "lxml>=4.6.0",
-    "platformdirs>=1.4.0",
+    "platformdirs==3.1.1",
     "requests>=2.7.0",
     "requests-toolbelt>=0.7.1",
     "requests-file>=1.5.1",
