@@ -11,7 +11,7 @@ install_requires = [
     "requests>=2.7.0",
     "requests-toolbelt>=0.7.1",
     "requests-file>=1.5.1",
-    "pytz",
+    "pytz==2022.7.1",
 ]
 
 docs_require = [
